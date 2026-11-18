@@ -1,0 +1,16 @@
+# Archivos compilados de Java (NetBeans y Maven los crean solos)
+target/
+*.class
+.verification
+java-api/target
+# Configuración personal de NetBeans
+nbproject/private/
+nbactions.xml
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+# Basura del sistema
+.DS_Store
+Thumbs.db
